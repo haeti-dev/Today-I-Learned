@@ -43,3 +43,12 @@
 | :------: | :---: | :---: |
 | [Firebase Remote Config 사용 시 DI를 활용하자](https://github.com/haeti-dev/Today-I-Learned/blob/main/FireBase/FireBaseRemoteCofig%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20DI%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) | DI | 2024.12.30 | 
 <br>
+
+### Kotlin
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [nullable한 값에 스마트 캐스트가 깨지는 경우](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/nullable%ED%95%9C%20%EA%B0%92%EC%97%90%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%BA%90%EC%8A%A4%ED%8A%B8%EA%B0%80%20%EA%B9%A8%EC%A7%80%EB%8A%94%20%EA%B2%BD%EC%9A%B0.md) | Null Safe | 2025.01.06 | 
+<br>
+
+
+
