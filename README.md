@@ -23,7 +23,9 @@
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
 | [구조화된 동시성을 해치지 말자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Coroutine/%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C%20%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%84%20%ED%95%B4%EC%B9%98%EC%A7%80%20%EB%A7%90%EC%9E%90.md) | runCatching / CancellationException | 2024.12.27 | 
+| [코루틴의 예외 처리에 대한 여러 가지 방법들](https://github.com/haeti-dev/Today-I-Learned/blob/main/Coroutine/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95%EB%93%A4.md) | SuperviserJop / scope | 2025.01.07 | 
 <br>
+
 
 ### Gradle
 | Title | Tag | Date | 
