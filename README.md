@@ -16,6 +16,7 @@
 | [painter 사용시 불필요한 리컴포지션을 주의하자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Stability/painter%20%EC%82%AC%EC%9A%A9%EC%8B%9C%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EB%A6%AC%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%A3%BC%EC%9D%98%ED%95%98%EC%9E%90.md) | Stability | 2024.12.26 | 
 | [SnapshotMutationPolicy](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/SmartRecomposition/SnapshotMutationPolicy.md) | SnapshotMutationPolicy | 2024.12.31 | 
 | [AndroidView에서 WebView를 다룰 땐 크기를 고려하자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/WebView/AndroidView%EC%97%90%EC%84%9C%20Webview%EB%A5%BC%20%EB%8B%A4%EB%A3%B0%20%EB%95%90%20%ED%81%AC%EA%B8%B0%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) | AndroidView, WebView | 2025.01.03 | 
+| [vertialGradient 알아보기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Design/verticalGradient%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md) | Brush | 2025.01.08 | 
 
 <br>
 
