@@ -54,6 +54,12 @@
 | [mapCathcing으로 안전하게 Result 타입 변환하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/Result/mapCathcing%EC%9C%BC%EB%A1%9C%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20Result%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md) | Result | 2025.01.10 | 
 <br>
 
+### Third Party
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [Notifly로 마케팅을 자동화하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Third-Party/Notifly%EB%A1%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%84%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0.md) | Marketing | 2025.01.11 | 
+<br>
+
 
 
 
