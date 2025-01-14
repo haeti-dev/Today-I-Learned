@@ -61,6 +61,12 @@
 | [Notifly로 마케팅을 자동화하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Third-Party/Notifly%EB%A1%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%84%20%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0.md) | Marketing | 2025.01.11 | 
 <br>
 
+### Common
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [String Localization 살펴보기](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/String%20Localization%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md) | 다국어지원 | 2025.01.09 | 
+<br>
+
 
 
 
