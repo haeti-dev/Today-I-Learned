@@ -68,7 +68,11 @@
 ### Common
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
-| [String Localization 살펴보기](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/String%20Localization%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md) | 다국어지원 | 2025.01.09 | 
+| [String Localization 살펴보기](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/String%20Localization%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md) | 다국어지원 | 2025.01.09 |
+| [앱 용량 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/%EC%95%B1%20%EC%9A%A9%EB%9F%89%20%EC%B5%9C%EC%A0%81%ED%99%94.md) | 최적화 | 2025.01.20 | 
+| [postman vs insomnia](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/postman%20vs%20insomnia.md) | 서비스 | 2025.01.26 | 
+
+
 <br>
 
 
