@@ -49,6 +49,13 @@
 | [Firebase Remote Config 사용 시 DI를 활용하자](https://github.com/haeti-dev/Today-I-Learned/blob/main/FireBase/FireBaseRemoteCofig%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20DI%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90.md) | DI | 2024.12.30 | 
 <br>
 
+### Flow
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [channelFlow를 알아보자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Flow/channelFlow%EB%A5%BC%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90.md) | channel | 2025.01.24 | 
+<br>
+
+
 ### Kotlin
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
