@@ -18,7 +18,7 @@
 | [AndroidView에서 WebView를 다룰 땐 크기를 고려하자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/WebView/AndroidView%EC%97%90%EC%84%9C%20Webview%EB%A5%BC%20%EB%8B%A4%EB%A3%B0%20%EB%95%90%20%ED%81%AC%EA%B8%B0%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90.md) | AndroidView, WebView | 2025.01.03 | 
 | [vertialGradient 알아보기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Design/verticalGradient%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md) | Brush | 2025.01.08 | 
 | [Compound Component 패턴으로 복잡한 UI 설계하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Pattern/Compound%20Component%20%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20UI%20%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0.md) | Pattern | 2025.01.28 | 
-
+| [textMeasurer 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Textmeasurer%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EB%B0%A9%EB%B2%95.md) | recomposition / Cache | 2025.01.28 | 
 <br>
 
 ### Coroutine
