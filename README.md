@@ -65,9 +65,6 @@
 | [스프레드 연산자와 함께 포멧팅 확장성 대응하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EA%BB%98%20%ED%8F%AC%EB%A9%A7%ED%8C%85%20%ED%99%95%EC%9E%A5%EC%84%B1%20%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0.md) | Toast / varargs | 2025.01.15 |  
 <br>
 
-
-
-
 ### Third Party
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
@@ -81,8 +78,14 @@
 | [앱 용량 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/%EC%95%B1%20%EC%9A%A9%EB%9F%89%20%EC%B5%9C%EC%A0%81%ED%99%94.md) | 최적화 | 2025.01.20 | 
 | [postman vs insomnia](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/postman%20vs%20insomnia.md) | 서비스 | 2025.01.26 | 
 
-
 <br>
+
+### Computer Science
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [JVM 프로세스의 메모리 관리 및 OS 레벨의 메모리 관리](https://github.com/haeti-dev/Today-I-Learned/blob/main/CS/Memory/JVM%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20%EB%B0%8F%20OS%20%EB%A0%88%EB%B2%A8%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC.md) | Memory | 2025.02.05 | 
+<br>
+
 
 
 
