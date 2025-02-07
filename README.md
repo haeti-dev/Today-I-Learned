@@ -62,8 +62,14 @@
 | :------: | :---: | :---: |
 | [nullable한 값에 스마트 캐스트가 깨지는 경우](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/nullable%ED%95%9C%20%EA%B0%92%EC%97%90%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%BA%90%EC%8A%A4%ED%8A%B8%EA%B0%80%20%EA%B9%A8%EC%A7%80%EB%8A%94%20%EA%B2%BD%EC%9A%B0.md) | Null Safe | 2025.01.06 | 
 | [mapCathcing으로 안전하게 Result 타입 변환하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/Result/mapCathcing%EC%9C%BC%EB%A1%9C%20%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C%20Result%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md) | Result | 2025.01.10 |
-| [스프레드 연산자와 함께 포멧팅 확장성 대응하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EA%BB%98%20%ED%8F%AC%EB%A9%A7%ED%8C%85%20%ED%99%95%EC%9E%A5%EC%84%B1%20%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0.md) | Toast / varargs | 2025.01.15 |  
+| [스프레드 연산자와 함께 포멧팅 확장성 대응하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%ED%95%A8%EA%BB%98%20%ED%8F%AC%EB%A9%A7%ED%8C%85%20%ED%99%95%EC%9E%A5%EC%84%B1%20%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0.md) | Toast / varargs | 2025.01.15 |
+| [isBlank 확장함수 활용하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/isBlank%20%ED%99%95%EC%9E%A5%ED%95%A8%EC%88%98%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md) | 가독성 | 2025.01.23 |
+| [Android에서 runBlocking 사용할 때 조심해야 하는 이유](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/runBlocking%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) | Coroutine | 2025.02.03 |
+| [Relection과 함수 참조](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/Reflection%EA%B3%BC%20%ED%95%A8%EC%88%98%20%EC%B0%B8%EC%A1%B0.md) | reference | 2025.02.06 |
 <br>
+
+
+
 
 ### Third Party
 | Title | Tag | Date | 
