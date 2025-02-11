@@ -19,7 +19,9 @@
 | [vertialGradient 알아보기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Design/verticalGradient%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md) | Brush | 2025.01.08 | 
 | [Compound Component 패턴으로 복잡한 UI 설계하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Pattern/Compound%20Component%20%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20UI%20%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0.md) | Pattern | 2025.01.28 | 
 | [textMeasurer 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Textmeasurer%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EB%B0%A9%EB%B2%95.md) | recomposition / Cache | 2025.01.28 | 
+| [rememberModalBottomSheetState 이해하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/rememberModalBottomSheetState%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md) | BottomSheet | 2025.02.11 | 
 <br>
+
 
 ### Coroutine
 | Title | Tag | Date | 
