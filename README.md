@@ -75,6 +75,11 @@
 | [asStateFlow()로 확실한 읽기 전용을 만들자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/asStateFlow%EB%A1%9C%20%ED%99%95%EC%8B%A4%ED%95%9C%20%EC%9D%BD%EA%B8%B0%20%EC%A0%84%EC%9A%A9%EC%9D%84%20%EB%A7%8C%EB%93%A4%EC%9E%90.md) | Fusion / ReadOnly / Flow | 2025.02.12 |
 <br>
 
+### Hilt
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [@Provides vs @Binds](https://github.com/haeti-dev/Today-I-Learned/blob/main/Hilt/%40Provides%20vs%20%40Binds.md) | Annotation / DI | 2025.02.21 | 
+<br>
 
 
 
