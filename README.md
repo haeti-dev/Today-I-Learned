@@ -74,8 +74,8 @@
 | [runBlocking 사용 시 조심해야 하는 이유](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/runBlocking%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) | Blocking | 2025.02.03 |
 | [asStateFlow()로 확실한 읽기 전용을 만들자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/asStateFlow%EB%A1%9C%20%ED%99%95%EC%8B%A4%ED%95%9C%20%EC%9D%BD%EA%B8%B0%20%EC%A0%84%EC%9A%A9%EC%9D%84%20%EB%A7%8C%EB%93%A4%EC%9E%90.md) | Fusion / ReadOnly / Flow | 2025.02.12 |
 | [Assignment(=) 방식과 get() 방식의 차이](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/Assignment(%3D)%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%20get()%20%EB%B0%A9%EC%8B%9D%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md) | Field | 2025.02.24 |
+| [이모지와 String.length가 만나면 생기는 문제](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/%EC%9D%B4%EB%AA%A8%EC%A7%80%EC%99%80%20String.length%EA%B0%80%20%EB%A7%8C%EB%82%98%EB%A9%B4%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md) | String / UniCode | 2025.02.25 |
 <br>
-
 
 ### Hilt
 | Title | Tag | Date | 
