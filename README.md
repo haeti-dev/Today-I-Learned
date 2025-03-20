@@ -98,7 +98,10 @@
 | [앱 용량 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/%EC%95%B1%20%EC%9A%A9%EB%9F%89%20%EC%B5%9C%EC%A0%81%ED%99%94.md) | 최적화 | 2025.01.20 | 
 | [postman vs insomnia](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/postman%20vs%20insomnia.md) | 서비스 | 2025.01.26 | 
 | [Android Studio Meerkat 버전에 추가된 기능들을 알아보자](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/Android%20Studio%20Meerkat%20%EB%B2%84%EC%A0%84%EC%97%90%20%EC%B6%94%EA%B0%80%EB%90%9C%20%EA%B8%B0%EB%8A%A5%EB%93%A4%EC%9D%84%20%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90.md) | Android Studio | 2025.03.05 | 
+| [detekt와 reviewdog을 활용한 코드 품질 관리](https://github.com/haeti-dev/Today-I-Learned/blob/main/common/detekt%EC%99%80%20reviewdog%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%93%9C%20%ED%92%88%EC%A7%88%20%EA%B4%80%EB%A6%AC.md) | CI / Lint / GitHub Actions  | 2025.03.09 | 
+
 <br>
+
 
 ### Computer Science
 | Title | Tag | Date | 
