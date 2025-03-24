@@ -41,7 +41,9 @@
 | :------: | :---: | :---: |
 | [빌드 속도 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/Gradle/%EB%B9%8C%EB%93%9C%EC%86%8D%EB%8F%84_%EC%B5%9C%EC%A0%81%ED%99%94.md) | gradle properties | 2024.12.20 | 
 | [빌드 속도 측정](https://github.com/haeti-dev/Today-I-Learned/blob/main/Gradle/%EB%B9%8C%EB%93%9C%EC%86%8D%EB%8F%84_%EC%B8%A1%EC%A0%95.md) | Gradle Profile | 2024.12.23 | 
+| [Gradle 빌드를 위한 JVM 최적화 설정](https://github.com/haeti-dev/Today-I-Learned/blob/main/Gradle/Gradle%20%EB%B9%8C%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20JVM%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EC%84%A4%EC%A0%95.md) | Optimize | 2025.03.24 | 
 <br>
+
 
 ### Network
 | Title | Tag | Date | 
