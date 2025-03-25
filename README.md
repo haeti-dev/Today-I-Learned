@@ -77,7 +77,9 @@
 | [asStateFlow()로 확실한 읽기 전용을 만들자](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/asStateFlow%EB%A1%9C%20%ED%99%95%EC%8B%A4%ED%95%9C%20%EC%9D%BD%EA%B8%B0%20%EC%A0%84%EC%9A%A9%EC%9D%84%20%EB%A7%8C%EB%93%A4%EC%9E%90.md) | Fusion / ReadOnly / Flow | 2025.02.12 |
 | [Assignment(=) 방식과 get() 방식의 차이](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/Assignment(%3D)%20%EB%B0%A9%EC%8B%9D%EA%B3%BC%20get()%20%EB%B0%A9%EC%8B%9D%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md) | Field | 2025.02.24 |
 | [이모지와 String.length가 만나면 생기는 문제](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/%EC%9D%B4%EB%AA%A8%EC%A7%80%EC%99%80%20String.length%EA%B0%80%20%EB%A7%8C%EB%82%98%EB%A9%B4%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md) | String / UniCode | 2025.02.25 |
+| [value class의 특징과 성능 최적화](https://github.com/haeti-dev/Today-I-Learned/blob/main/Kotlin/value%20class%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md) | Factory Method / Optimize | 2025.03.25 |
 <br>
+
 
 ### Hilt
 | Title | Tag | Date | 
