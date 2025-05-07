@@ -4,6 +4,13 @@
 
 <br>
 
+
+### Android
+| Title | Tag | Date | 
+| :------: | :---: | :---: |
+| [Fragment 재사용시 주의할 점](https://github.com/haeti-dev/Today-I-Learned/blob/main/Android/Fragment/Fragment%20%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%8B%9C%20%EC%A3%BC%EC%9D%98%ED%95%A0%20%EC%A0%90.md) | Fragment / replace | 2025.05.07 | 
+<br>
+
 ### AndroidLibrary
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
