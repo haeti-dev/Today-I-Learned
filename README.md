@@ -56,7 +56,10 @@
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
 | [networkSecurityConfig](https://github.com/haeti-dev/Today-I-Learned/blob/main/Network/networkSecurityConfig.md) | Security | 2024.12.25 | 
+| [Connectivity를 사용한 네트워크 상태 감지](https://github.com/haeti-dev/Today-I-Learned/blob/main/Network/ConnectivityManager%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%83%81%ED%83%9C%20%EA%B0%90%EC%A7%80.md) | Network State | 2025.05.09 | 
+
 <br>
+
 
 ### Firebase
 | Title | Tag | Date | 
