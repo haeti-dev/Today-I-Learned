@@ -95,6 +95,8 @@
 | Title | Tag | Date | 
 | :------: | :---: | :---: |
 | [@Provides vs @Binds](https://github.com/haeti-dev/Today-I-Learned/blob/main/Hilt/%40Provides%20vs%20%40Binds.md) | Annotation / DI | 2025.02.21 | 
+| [AnnotationRetention]([https://github.com/haeti-dev/Today-I-Learned/blob/main/Hilt/%40Provides%20vs%20%40Binds.md](https://github.com/haeti-dev/Today-I-Learned/blob/main/Hilt/Annotation%20Retention.md)) | Annotation / Reflection | 2025.02.21 | 
+
 <br>
 
 
