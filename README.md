@@ -29,6 +29,8 @@
 | [rememberModalBottomSheetState 이해하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/rememberModalBottomSheetState%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md) | BottomSheet | 2025.02.11 | 
 | [LocalInspectionMode 활용하기](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/LocalInspectionMode%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md) | Preview | 2025.02.17 | 
 | [MVI 패턴에서 초기 데이터 로딩하는 적절한 방법](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/MVI%20%ED%8C%A8%ED%84%B4%EC%97%90%EC%84%9C%20%EC%B4%88%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A1%9C%EB%94%A9%ED%95%98%EB%8A%94%20%EC%A0%81%EC%A0%88%ED%95%9C%20%EB%B0%A9%EB%B2%95.md) | MVI / FLOW | 2025.02.19 | 
+| [fontFeatureSetting](https://github.com/haeti-dev/Today-I-Learned/blob/main/Compose/Design/fontFeatureSetting.md) | Typography | 2025.10.21 | 
+
 <br>
 
 
